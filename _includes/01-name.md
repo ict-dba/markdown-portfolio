@@ -1,5 +1,3 @@
-#Bodygnoch Miggldy
-
-##Sketchy Reprty
-
-###Dead
+# Bodygnoch Miggldy
+## Sketchy Reporter
+### Dead
